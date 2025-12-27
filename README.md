@@ -86,7 +86,6 @@ University of NIIBS
 	<img width="100" height="500" alt="image" src="https://github.com/user-attachments/assets/67c36b49-c137-4b71-9575-89e946dab607" />
 	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img width="100" height="500" alt="image" src="https://github.com/user-attachments/assets/2adbe42e-6b22-4d20-9ec5-2e297a954868" />
-
 </p>
 
 ⸻
@@ -101,7 +100,3 @@ University of NIIBS
 <img width="100" height="500" alt="image" src="https://github.com/user-attachments/assets/afe1757c-cf28-40f8-8b01-d4a1df795431" />
 
 </p>
-
-
-
-⭐ If you find this project useful, feel free to explore, learn, and improve upon it!
