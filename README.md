@@ -74,7 +74,7 @@ University of NIIBS
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img width="100" height="500" alt="image" src="https://github.com/user-attachments/assets/73ac84ac-58dd-4efe-a4b3-ec0fcb272b84" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="1080" height="2424" alt="image" src="https://github.com/user-attachments/assets/b981590a-6cae-496f-a061-48f6266b178a" />
+  <img width="100" height="500" alt="image" src="https://github.com/user-attachments/assets/b981590a-6cae-496f-a061-48f6266b178a" />
 
 
 </p>
