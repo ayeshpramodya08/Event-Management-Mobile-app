@@ -68,8 +68,8 @@ University of NIIBS
 
 ⸻
 
-
-<p align="center">Admin View
+Admin View
+<p align="center">
   <img width="100" height="500" alt="image" src="https://github.com/user-attachments/assets/a7e34f64-abfe-4512-a8c5-dacfbb5a455d" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img width="100" height="500" alt="image" src="https://github.com/user-attachments/assets/73ac84ac-58dd-4efe-a4b3-ec0fcb272b84" />
@@ -78,15 +78,15 @@ University of NIIBS
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img width="100" height="500" alt="image" src="https://github.com/user-attachments/assets/635a7fc4-8073-4fea-8ac9-00cf83091c35" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="10" 0height="500" alt="image" src="https://github.com/user-attachments/assets/31537dea-adad-414c-ad79-fa198454e6ee" />
+  <img width="100" 0height="500" alt="image" src="https://github.com/user-attachments/assets/31537dea-adad-414c-ad79-fa198454e6ee" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img width="100" height="500" alt="image" src="https://github.com/user-attachments/assets/34b7ad09-9756-43b1-ad23-0fa76755c299" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img width="100" height="500" alt="image" src="https://github.com/user-attachments/assets/67c36b49-c137-4b71-9575-89e946dab607" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<p align="center">Student View
+Student View
+<p align="center">
   <img width="100" height="500" alt="image" src="https://github.com/user-attachments/assets/a7e34f64-abfe-4512-a8c5-dacfbb5a455d" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img width="100" height="500" alt="image" src="https://github.com/user-attachments/assets/73ac84ac-58dd-4efe-a4b3-ec0fcb272b84" />
