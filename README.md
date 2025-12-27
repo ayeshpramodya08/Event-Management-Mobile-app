@@ -68,7 +68,8 @@ University of NIIBS
 
 ⸻
 
-Admin View
+📸 Snap shot of Admin View
+
 <p align="center">
   <img width="100" height="500" alt="image" src="https://github.com/user-attachments/assets/a7e34f64-abfe-4512-a8c5-dacfbb5a455d" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -85,7 +86,10 @@ Admin View
 	<img width="100" height="500" alt="image" src="https://github.com/user-attachments/assets/67c36b49-c137-4b71-9575-89e946dab607" />
 </p>
 
-Student View
+⸻
+
+📸 Snap shot of Student View
+
 <p align="center">
   <img width="100" height="500" alt="image" src="https://github.com/user-attachments/assets/a7e34f64-abfe-4512-a8c5-dacfbb5a455d" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
