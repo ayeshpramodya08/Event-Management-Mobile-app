@@ -84,6 +84,9 @@ University of NIIBS
 	<img width="100" height="500" alt="image" src="https://github.com/user-attachments/assets/34b7ad09-9756-43b1-ad23-0fa76755c299" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img width="100" height="500" alt="image" src="https://github.com/user-attachments/assets/67c36b49-c137-4b71-9575-89e946dab607" />
+	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img width="100" height="500" alt="image" src="https://github.com/user-attachments/assets/2adbe42e-6b22-4d20-9ec5-2e297a954868" />
+
 </p>
 
 ⸻
@@ -91,9 +94,13 @@ University of NIIBS
 📸 Snap shot of Student View
 
 <p align="center">
-  <img width="100" height="500" alt="image" src="https://github.com/user-attachments/assets/a7e34f64-abfe-4512-a8c5-dacfbb5a455d" />
+ <img width="100" height="500" alt="image" src="https://github.com/user-attachments/assets/07f08a42-0f13-4d47-b870-3595c8ffa140" />
+
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img width="100" height="500" alt="image" src="https://github.com/user-attachments/assets/73ac84ac-58dd-4efe-a4b3-ec0fcb272b84" />
+  <img width="100" height="500" alt="image" src="https://github.com/user-attachments/assets/10f07094-c8eb-4c28-a735-0251ce7761e2" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="100" height="500" alt="image" src="https://github.com/user-attachments/assets/afe1757c-cf28-40f8-8b01-d4a1df795431" />
+
 </p>
 
 
